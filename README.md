@@ -1,6 +1,6 @@
 
 # drone-plugin-ansible-lint
-Drone plugin to provision infrastructure with Ansible. Built form original plugin, packing ansible-lint
+Drone plugin to provision infrastructure with Ansible.
 
 ## Example pipeline
 ```
